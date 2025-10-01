@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52fcc2c6-6b19-4a47-b81c-d0fcb2e75d1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MAIN/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AncientDrago"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AncientDrago/AI-Assistant-using-Python",
+    "accountId": "482410d9-8bc3-4550-b01a-261b485dbb92"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2p2HLWSSgmJSULwMfaS8NgBtxrg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Another_Automation_in_youtube.executor": "Run",
+    "Python.CHECK_SPEED.executor": "Run",
+    "Python.CLOCK.executor": "Run",
+    "Python.DLG.executor": "Run",
+    "Python.Imagegen.executor": "Run",
+    "Python._intregation_automation.executor": "Run",
+    "Python.advice.executor": "Run",
+    "Python.battery_alert.executor": "Run",
+    "Python.battery_intregation_main.executor": "Run",
+    "Python.battery_plug_check.executor": "Run",
+    "Python.brain.executor": "Run",
+    "Python.caption_in_video.executor": "Run",
+    "Python.check_battery_persentage.executor": "Run",
+    "Python.check_online_offline_status.executor": "Run",
+    "Python.check_temperature.executor": "Run",
+    "Python.clap_with_music.executor": "Run",
+    "Python.clapd.executor": "Run",
+    "Python.close.executor": "Run",
+    "Python.common_intregation.executor": "Run",
+    "Python.core.executor": "Run",
+    "Python.find_my_ip.executor": "Run",
+    "Python.function_intregation.executor": "Run",
+    "Python.google_big_data.executor": "Run",
+    "Python.google_intregation_main.executor": "Run",
+    "Python.google_small_data.executor": "Run",
+    "Python.jokes.executor": "Run",
+    "Python.listen.executor": "Run",
+    "Python.llm1.executor": "Run",
+    "Python.llm2.executor": "Run",
+    "Python.load_file.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.manual_search_in_youtube.executor": "Run",
+    "Python.model1.executor": "Run",
+    "Python.model2.executor": "Run",
+    "Python.open.executor": "Run",
+    "Python.open_website.executor": "Run",
+    "Python.play_music_in_youtube.executor": "Run",
+    "Python.play_pause_video_in_youtube.executor": "Run",
+    "Python.scrole_automation.executor": "Run",
+    "Python.search_in_google.executor": "Run",
+    "Python.search_in_youtube.executor": "Run",
+    "Python.seo_generator.executor": "Run",
+    "Python.speak.executor": "Run",
+    "Python.speak2.executor": "Run",
+    "Python.tab_automation.executor": "Run",
+    "Python.welcome_greatings.executor": "Run",
+    "Python.wish_greatings.executor": "Run",
+    "Python.youtube_intregation_main.executor": "Run",
+    "Python.youtube_video_playback.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ABISHEK/OneDrive/Desktop/J.A.R.V.I.S",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52fcc2c6-6b19-4a47-b81c-d0fcb2e75d1f" name="Changes" comment="" />
+      <created>1731957195766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731957195766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
