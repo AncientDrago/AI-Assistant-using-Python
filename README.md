@@ -1,16 +1,16 @@
-# 🧠 AI Assistant using Python
+#  AI Assistant using Python
 
 Welcome to **J.A.R.V.I.S** – your personal AI assistant built with Python! This project is designed to help automate tasks, respond to voice commands, and integrate smart features using open-source libraries.
 
-## 🚀 Features
+##  Features
 
-- 🎙️ Voice recognition and command execution
-- 🌐 Web search and information retrieval
-- 📅 Task scheduling and reminders
-- 🗣️ Text-to-speech responses
-- 🧩 Modular design for easy expansion
+-  Voice recognition and command execution
+-  Web search and information retrieval
+-  Task scheduling and reminders
+-  Text-to-speech responses
+-  Modular design for easy expansion
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.11+
 - `speech_recognition`
@@ -20,7 +20,7 @@ Welcome to **J.A.R.V.I.S** – your personal AI assistant built with Python! Thi
 - `webbrowser`
 - Custom modules and logic
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
